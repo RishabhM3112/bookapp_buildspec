@@ -1,0 +1,15 @@
+com/bookManagement/service/CategoryService.class
+com/bookManagement/model/Book.class
+com/bookManagement/CustomMapper/BookMapper.class
+com/bookManagement/repo/BookRepo.class
+com/bookManagement/controllers/CategoryController.class
+com/bookManagement/model/User.class
+com/bookManagement/controllers/BookController.class
+com/bookManagement/service/UserService.class
+com/bookManagement/service/BookService.class
+com/bookManagement/controllers/UserController.class
+com/bookManagement/repo/UserRepo.class
+com/bookManagement/model/Category.class
+com/bookManagement/CustomMapper/UserMapper.class
+com/bookManagement/BookManagementApplication.class
+com/bookManagement/repo/CategoryRepo.class

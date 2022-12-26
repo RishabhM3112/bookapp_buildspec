@@ -1,0 +1,15 @@
+/Users/rishabh/Desktop/spring_prac/bookManagement/src/main/java/com/bookManagement/model/User.java
+/Users/rishabh/Desktop/spring_prac/bookManagement/src/main/java/com/bookManagement/service/UserService.java
+/Users/rishabh/Desktop/spring_prac/bookManagement/src/main/java/com/bookManagement/repo/UserRepo.java
+/Users/rishabh/Desktop/spring_prac/bookManagement/src/main/java/com/bookManagement/controllers/UserController.java
+/Users/rishabh/Desktop/spring_prac/bookManagement/src/main/java/com/bookManagement/BookManagementApplication.java
+/Users/rishabh/Desktop/spring_prac/bookManagement/src/main/java/com/bookManagement/controllers/BookController.java
+/Users/rishabh/Desktop/spring_prac/bookManagement/src/main/java/com/bookManagement/model/Category.java
+/Users/rishabh/Desktop/spring_prac/bookManagement/src/main/java/com/bookManagement/repo/CategoryRepo.java
+/Users/rishabh/Desktop/spring_prac/bookManagement/src/main/java/com/bookManagement/model/Book.java
+/Users/rishabh/Desktop/spring_prac/bookManagement/src/main/java/com/bookManagement/CustomMapper/UserMapper.java
+/Users/rishabh/Desktop/spring_prac/bookManagement/src/main/java/com/bookManagement/CustomMapper/BookMapper.java
+/Users/rishabh/Desktop/spring_prac/bookManagement/src/main/java/com/bookManagement/controllers/CategoryController.java
+/Users/rishabh/Desktop/spring_prac/bookManagement/src/main/java/com/bookManagement/service/CategoryService.java
+/Users/rishabh/Desktop/spring_prac/bookManagement/src/main/java/com/bookManagement/service/BookService.java
+/Users/rishabh/Desktop/spring_prac/bookManagement/src/main/java/com/bookManagement/repo/BookRepo.java
